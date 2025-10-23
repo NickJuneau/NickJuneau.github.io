@@ -32,3 +32,8 @@ a:hover {
     width: 1400px;
     height: auto;
 }
+
+.project img{
+    width: 500px;
+    height: auto;
+}
