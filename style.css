@@ -8,6 +8,10 @@ body {
 }
 
 div {
+    background-color: white;
+}
+
+.box {
     background-color: #c7c7c7;
     padding: 10px;
     margin: 10px;
