@@ -42,3 +42,9 @@ a:hover {
     height: auto;
     display: block;
 }
+
+.MealMate img {
+    max-height: 500px;
+    width: auto;
+}
+
